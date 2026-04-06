@@ -1,9 +1,6 @@
-aiogram
 fastapi
 uvicorn
-sqlalchemy
-asyncpg
+aiogram
 pandas
 openpyxl
 python-multipart
-aiohttp
