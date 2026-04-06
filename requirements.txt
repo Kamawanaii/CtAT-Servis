@@ -1,0 +1,9 @@
+aiogram
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+pandas
+openpyxl
+python-multipart
+aiohttp
